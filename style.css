@@ -349,7 +349,7 @@ section{
     position: absolute;
     height: 100%;
     width: 100%;
-    background: url(Images\Warner_Bros._Pictures_(Stop_the_World_I_Want_to_Get_Off).jpg);
+    background: url(Images/slider3.jpg);
     background-size: cover;
     background-position: center;
     filter: blur(2x) brightness(80%);
@@ -388,7 +388,7 @@ section{
     margin: 4px 0px;
     border: 1px solid #5c5c5c;
     border-radius: 3px;
-    background: #1;
+    background: transparent;
     padding: 0 15px;
     padding-right: 45px;
     font-size: 20px;
